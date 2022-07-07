@@ -8,12 +8,12 @@
 }
 
 body {
-  background-image: url(../backintrumpet/assets/imgs/fundo.gif);
+  background-image: url(./imgs/fundo.gif);
   background-size: cover;
 }
 
 body.dark {
-  background-image: url(../backintrumpet/assets/imgs/fundo.gif);
+  background-image: url(./imgs/fundo.gif);
   background-size: cover;
 }
 
