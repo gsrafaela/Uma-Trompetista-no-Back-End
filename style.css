@@ -46,7 +46,10 @@ body.dark {
   }
 }
 
-.dark .about p,
+.dark .about p{
+  color: #392848;
+  background: #9d809d;
+}
 .dark .tecnologias p,
 .dark .projetos p,
 .dark .contato p {
@@ -171,6 +174,8 @@ i {
   color: #4e4151;
   max-width: 60ch;
   padding-top: 3.75rem;
+  background:#e2bbda;
+  border-radius: 8px;
 }
 @media (max-width: 950px) {
   .about p {
